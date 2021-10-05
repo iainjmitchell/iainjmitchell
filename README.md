@@ -1,6 +1,6 @@
 # About me
 
-## My Working Style
+[Manual of me](./manual-of-me)
 
 ### 📫 How to reach me
 Slack over email.
