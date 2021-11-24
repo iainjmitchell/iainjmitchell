@@ -2,7 +2,7 @@
 
 ## The basics you should know about me are ...
 I go by my given name of Iain, though I often use the handle _iainjmitchell_ through online presence.
-Often I describe myself as a _Software Practitioner_ and I am often in jobs involving Leadership, Coaching and Architecture.  Currently I am an Engineering Manager at [On The Beach](https://onthebeach.co.uk).  
+Often I describe myself as a _Software Practitioner_ and I am often in jobs involving Leadership, Coaching and Architecture.  
 
 I also still love to code, so I might randomly turn up on pairs and mobs.
 
