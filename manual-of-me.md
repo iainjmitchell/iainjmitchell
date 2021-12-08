@@ -16,12 +16,12 @@ I really struggle with second-hand feedback as I find the inability to ask clari
 ## My best working patterns look like ...
 I always start the day around 8am and aim to finish around 4pm.  The first part of my day is dedicated to reviewing my weekly objectives, meditating and my daily 10 mins of reading.
 
-I don't work after hours and I never install work slack or email on my personal devices.
+I don't work after hours and I never install work Slack/Teams or email on my personal devices.
 
 Ocassionally, I might have to duck out for school run.
 
 ## Communication Channels ...
-I view email as a replacement to postal mail, as such I only check this once a day.  If you require a faster response then send me a message through Slack.
+I view email as a replacement to postal mail, as such I only check this once a day.  If you require a faster response then send me a message through Slack/Teams.
 
 ## You’ll convince me to get on board by ...
 Making a really clear case with evidence/data behind it and giving me time to contemplate.
